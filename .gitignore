@@ -1,0 +1,4 @@
+node_modules/
+summaries.json
+.env
+__pycache__/
